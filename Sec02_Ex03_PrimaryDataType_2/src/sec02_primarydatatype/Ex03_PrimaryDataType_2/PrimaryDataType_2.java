@@ -1,4 +1,4 @@
-package sec02_primarydatatype.Ex03_PrimaryDataType_2;
+package sec02_primarydatatype.EX03_PrimaryDataType_2;
 
 public class PrimaryDataType_2 {
 	public static void main(String[] args) {
