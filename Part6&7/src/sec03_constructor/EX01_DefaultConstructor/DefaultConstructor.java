@@ -1,4 +1,4 @@
-package sec03_constururctor.EX01_DefaultConstructor;
+package sec03_constructor.EX01_DefaultConstructor;
 
 class A {
 	int m;
