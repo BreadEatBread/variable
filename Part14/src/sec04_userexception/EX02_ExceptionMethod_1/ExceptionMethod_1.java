@@ -1,5 +1,7 @@
 package sec04_userexception.EX02_ExceptionMethod_1;
 
+import java.util.Scanner;
+
 public class ExceptionMethod_1 {
 	public static void main(String[] args) {
 		try {
@@ -13,6 +15,7 @@ public class ExceptionMethod_1 {
 		}catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
+		
 	}
 
 }
