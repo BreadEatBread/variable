@@ -6,11 +6,7 @@ class A {
       
       for(int value : values) {
           sum += value; // value = values[i]
-       }
-      
-//      for(int i = 0; i < values.length; i++) {
-//         sum+=values[i];         
-//      }
+       }    
       average = sum / (float)values.length;      
       System.out.println(average);      
    }
