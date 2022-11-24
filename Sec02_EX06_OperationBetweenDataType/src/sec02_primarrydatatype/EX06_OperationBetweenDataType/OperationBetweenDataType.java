@@ -33,8 +33,5 @@ public class OperationBetweenDataType {
 		System.out.println(value8);
 		System.out.println(value9);
 		System.out.println(value10);
-		
-
 	}
-
 }
